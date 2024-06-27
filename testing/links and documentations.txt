@@ -1,0 +1,2 @@
+yt tutorial: https://www.youtube.com/playlist?list=PLesCLaO8uQNpxJjwZwNFkVLXZOm_MvEfN
+documentation: https://nightwatchjs.org/

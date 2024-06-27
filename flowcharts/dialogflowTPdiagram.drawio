@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" modified="2024-04-17T12:43:34.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="wXDPX4uwA4y3dxq7avk6" version="24.2.5" type="device">
+  <diagram name="Page-1" id="NVD9FruNcDEfTBG55dCf">
+    <mxGraphModel dx="875" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-1" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-2" value="message" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dQJXl-weh2OmM-P2vb9o-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="170" as="sourcePoint" />
+            <mxPoint x="180" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-5" value="is it useful as a TP?" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQJXl-weh2OmM-P2vb9o-4" target="dQJXl-weh2OmM-P2vb9o-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="330" as="sourcePoint" />
+            <mxPoint x="325" y="252.96296296296305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="235" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-9" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-10" value="is it related to a already existing intent?&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-11" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dQJXl-weh2OmM-P2vb9o-12" target="dQJXl-weh2OmM-P2vb9o-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="430" as="sourcePoint" />
+            <mxPoint x="360" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="380" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-13" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-14" value="has the intent reached the allowed TP limit?" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-15" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dQJXl-weh2OmM-P2vb9o-17" target="dQJXl-weh2OmM-P2vb9o-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="580" as="sourcePoint" />
+            <mxPoint x="430" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-16" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="540" width="150" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-18" value="is the given message a better TP than any TP already contained in the intent?&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dQJXl-weh2OmM-P2vb9o-18" target="dQJXl-weh2OmM-P2vb9o-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.4;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dQJXl-weh2OmM-P2vb9o-25" target="dQJXl-weh2OmM-P2vb9o-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="733.8709677419354" y="730" as="sourcePoint" />
+            <mxPoint x="670" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-23" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-25" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="760" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-26" value="insert the message as a TP in the place of the TP deemed to be whorse&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="790" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQJXl-weh2OmM-P2vb9o-8" target="dQJXl-weh2OmM-P2vb9o-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="530" as="sourcePoint" />
+            <mxPoint x="430" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-28" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-29" value="create a new intent an insert this message as a TP&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="145" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-30" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-31" value="insert this message as a TP in the related TP" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-32" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQJXl-weh2OmM-P2vb9o-12" target="dQJXl-weh2OmM-P2vb9o-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="530" as="sourcePoint" />
+            <mxPoint x="670" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQJXl-weh2OmM-P2vb9o-17" target="dQJXl-weh2OmM-P2vb9o-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="530" as="sourcePoint" />
+            <mxPoint x="670" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-36" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="435" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-37" value="Discard the message" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-39" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-40" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-41" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQJXl-weh2OmM-P2vb9o-4" target="dQJXl-weh2OmM-P2vb9o-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="350" as="sourcePoint" />
+            <mxPoint x="290" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-43" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="35" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-44" value="Discard the message" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQJXl-weh2OmM-P2vb9o-45" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
